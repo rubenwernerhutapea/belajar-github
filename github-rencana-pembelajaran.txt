@@ -8,3 +8,4 @@ RENCANA PEMBELAJARAN
 - belajar bahasa pemrograman lain untuk development website
   * golang
   * python
+  * C#
