@@ -3,3 +3,4 @@ RENCANA PEMBELAJARAN
   * belajar perulangan dan pengkondisian
 - belajar javascript DOM
 - belajar menggunakan framework react.js
+- belajar full stack developer
