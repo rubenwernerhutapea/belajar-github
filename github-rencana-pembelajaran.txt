@@ -2,5 +2,9 @@ RENCANA PEMBELAJARAN
 - belajar javascript dasar
   * belajar perulangan dan pengkondisian
 - belajar javascript DOM
+  * belajar alert
 - belajar menggunakan framework react.js
 - belajar full stack developer
+- belajar bahasa pemrograman lain untuk development website
+  * golang
+  * python
