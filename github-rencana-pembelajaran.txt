@@ -3,5 +3,8 @@ RENCANA PEMBELAJARAN
   * belajar perulangan dan pengkondisian
 - belajar javascript DOM
   * belajar popup box
+- belajar menggunakan framework react.js
 - belajar full stack developer
-  * c#
+- belajar bahasa pemrograman lain untuk development website
+  * golang
+  * python
