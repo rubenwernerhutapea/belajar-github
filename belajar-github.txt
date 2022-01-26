@@ -2,3 +2,5 @@ Sedang belajar menggunakan github
 - sedang mendalami backend development menggunakan PHP
 - saat ini sedang belajar github
 - semoga bisa konsisten
+- menggunakan laravel sebagai framework PHP
+- membuat project baru dengan laravel
