@@ -6,3 +6,5 @@ RENCANA PEMBELAJARAN
 - belajar menggunakan framework react.js
 - belajar full stack developer
 - belajar bahasa pemrograman lain untuk development website
+  * golang
+  * python
