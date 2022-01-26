@@ -1,0 +1,4 @@
+RENCANA PEMBELAJARAN
+- belajar javascript dasar
+- belajar javascript DOM
+- belajar menggunakan framework react.js
