@@ -3,4 +3,4 @@ Sedang belajar menggunakan github
 - saat ini sedang belajar github
 - semoga bisa konsisten
 - menggunakan laravel sebagai framework PHP
-- membuat project baru dengan laravel
+- membuat vlogs
