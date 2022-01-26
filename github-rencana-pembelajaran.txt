@@ -2,5 +2,6 @@ RENCANA PEMBELAJARAN
 - belajar javascript dasar
   * belajar perulangan dan pengkondisian
 - belajar javascript DOM
-- belajar menggunakan framework react.js
+  * belajar popup box
 - belajar full stack developer
+  * c#
